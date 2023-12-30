@@ -1,4 +1,4 @@
-package org.example.challenges;
+package org.example.challenges.arrays;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

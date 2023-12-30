@@ -1,4 +1,4 @@
-package org.example.challenges;
+package org.example.challenges.arrays;
 
 /**
  * Problem statement :  Given an array of sorted int, write a function which would return a sorted array of the squared numbers

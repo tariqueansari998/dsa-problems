@@ -1,4 +1,4 @@
-package org.example.challenges;
+package org.example.challenges.arrays;
 
 /**
  * Problem statement : Given a 2D array, the function should return a transpose of the input

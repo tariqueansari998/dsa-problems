@@ -1,4 +1,4 @@
-package org.example.challenges;
+package org.example.challenges.arrays;
 
 /**
  * Problem statement :  Given a position in a chess board which is represented by a string of row & column e.g. "2b" where 2 is the row
