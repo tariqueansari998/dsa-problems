@@ -9,7 +9,6 @@ public class BSTClosestValueTest {
 
     @Test
     public void shouldReturnClosestValueInBST(){
-git stta
         var root = new BSTClosestValue.BST(10);
         root.leftChild = new BSTClosestValue.BST(5);
         root.leftChild.leftChild = new BSTClosestValue.BST(2);
