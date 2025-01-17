@@ -1,7 +1,6 @@
-package org.example.challenges.arrays;
+package org.example.challenges;
 
 import java.util.Arrays;
-import java.util.stream.IntStream;
 
 /**
  * Problem statement : Given a 16 digit credit card, this code intends to validate the credit card.

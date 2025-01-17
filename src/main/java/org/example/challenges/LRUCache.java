@@ -1,4 +1,4 @@
-package org.example.challenges.algorithms;
+package org.example.challenges;
 
 /*
 LRU cache (least recently used cache) is a cache of fixed capacity.

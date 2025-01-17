@@ -1,4 +1,4 @@
-package org.example.challenges.arrays;
+package org.example.challenges;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

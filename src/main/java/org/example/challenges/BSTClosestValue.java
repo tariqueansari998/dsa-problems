@@ -1,4 +1,4 @@
-package org.example.challenges.bst;
+package org.example.challenges;
 
 /**
  * Problem statement : Write a function to get the closest node value from a given target in a BST
